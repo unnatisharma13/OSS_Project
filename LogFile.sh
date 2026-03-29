@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Somya Neema
-# Registration: 24BCE10486
+# Author: Unnati Sharma
+# Registration: 24BCE11097
 # Course: Open Source Software
 # Description: Reads a log file line by line, counts keyword
 #              matches, and displays the last 5 matching lines.
