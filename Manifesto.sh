@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 5: The Open Source Manifesto Generator
-# Author: Somya Neema
-# Registration: 24BCE10486
+# Author: Unnati Sharma
+# Registration: 24BCE11097
 # Course: Open Source Software
 # Description: Interactively generates a personal FOSS manifesto
 #              based on three user inputs and saves it to a .txt file.
