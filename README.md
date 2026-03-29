@@ -1,7 +1,7 @@
 # OSS Capstone Project: The Open Source Audit
 
-**Name:** Somya Neema
-**Reg No:** 24BCE10486 
+**Name:** Unnati Sharma
+**Reg No:** 24BCE11097
 **Slot:** B22
 **Course:** Open Source Software  
 **College:** VIT Bhopal University 
